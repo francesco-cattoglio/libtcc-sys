@@ -1,0 +1,13 @@
+[package]
+name = "libtcc-sys"
+version = "0.1.0"
+authors = ["franz"]
+edition = "2015"
+build = "build.rs"
+
+[dependencies]
+
+
+[build-dependencies]
+bindgen = "0.42.2"
+
